@@ -24,6 +24,12 @@
 		D8DB1A972846C89C008D0FA7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D8DB1A9A2846C89C008D0FA7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D8DB1A9C2846C89C008D0FA7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D8DB1AA828476FF6008D0FA7 /* InriaSans-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "InriaSans-Light.ttf"; sourceTree = "<group>"; };
+		D8DB1AA928476FF6008D0FA7 /* InriaSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "InriaSans-Regular.ttf"; sourceTree = "<group>"; };
+		D8DB1AAA28476FF6008D0FA7 /* InriaSans-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "InriaSans-Italic.ttf"; sourceTree = "<group>"; };
+		D8DB1AAB28476FF6008D0FA7 /* InriaSans-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "InriaSans-BoldItalic.ttf"; sourceTree = "<group>"; };
+		D8DB1AAC28476FF6008D0FA7 /* InriaSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "InriaSans-Bold.ttf"; sourceTree = "<group>"; };
+		D8DB1AAD28476FF6008D0FA7 /* InriaSans-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "InriaSans-LightItalic.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +66,12 @@
 				D8DB1A902846C897008D0FA7 /* SceneDelegate.swift */,
 				D8DB1A922846C897008D0FA7 /* ViewController.swift */,
 				D8DB1A942846C897008D0FA7 /* Main.storyboard */,
+				D8DB1AAC28476FF6008D0FA7 /* InriaSans-Bold.ttf */,
+				D8DB1AAB28476FF6008D0FA7 /* InriaSans-BoldItalic.ttf */,
+				D8DB1AAA28476FF6008D0FA7 /* InriaSans-Italic.ttf */,
+				D8DB1AA828476FF6008D0FA7 /* InriaSans-Light.ttf */,
+				D8DB1AAD28476FF6008D0FA7 /* InriaSans-LightItalic.ttf */,
+				D8DB1AA928476FF6008D0FA7 /* InriaSans-Regular.ttf */,
 				D8DB1A972846C89C008D0FA7 /* Assets.xcassets */,
 				D8DB1A992846C89C008D0FA7 /* LaunchScreen.storyboard */,
 				D8DB1A9C2846C89C008D0FA7 /* Info.plist */,
@@ -293,6 +305,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -321,6 +334,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
